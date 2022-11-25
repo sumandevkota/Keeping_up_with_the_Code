@@ -1,4 +1,4 @@
-#two sums leetcode problem with O(n^2) complexicity
+#two sums leetcode problem with O(n^2) time 
 def twoSum(arr,target):
     n = len(arr)
     for i in range(n):
